@@ -1,7 +1,7 @@
 [submodule "starkex-for-spot-trading"]
     path = starkex-for-spot-trading
     url = https://github.com/starkware-libs/starkex-for-spot-trading.git
-    commit = 607f0b4
+    commit = 765f0b4
 [submodule "starkex-js"]
     path = starkex-js
     url = https://github.com/starkware-libs/starkex-js
